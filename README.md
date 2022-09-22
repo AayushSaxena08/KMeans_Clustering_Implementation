@@ -87,10 +87,10 @@ We can see that if K increases, average distortion will decrease.  Then each clu
 # **6. Import libraries** <a class="anchor" id="6"></a>
 [Table of Contents](#0.1)
 
-  import numpy as np
-  import pandas as pd
-  import matplotlib.pyplot as plt
-  import seaborn as sns ....
+    import numpy as np
+    import pandas as pd
+    import matplotlib.pyplot as plt
+    import seaborn as sns ....
  
 # **7. Import dataset** <a class="anchor" id="7"></a>
 [Table of Contents](#0.1)
