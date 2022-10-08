@@ -197,3 +197,5 @@ Dataset Link: https://www.kaggle.com/code/prashant111/k-means-clustering-with-py
 4.	I have achieved a weak classification accuracy of 1% with k=2 by our unsupervised model.
 5.	So, I have changed the value of k and find relatively higher classification accuracy of 62% with k=4.
 6.	Hence, we can conclude that k=4 being the optimal number of clusters.
+
+# Thank you for reading this repo. Connect with me on <a href="https://www.linkedin.com/in/aayushsaxena08/">LinkedIn</a>⭐
